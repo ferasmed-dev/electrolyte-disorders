@@ -1,0 +1,9 @@
+{
+  "name": "electrolyte-disorders",
+  "version": "1.0.0",
+  "description": "Interactive teaching simulator of water, sodium and potassium disorders (volume depletion and expansion, hyponatraemia, SIADH, hypernatraemia, hyper- and hypokalaemia). ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}

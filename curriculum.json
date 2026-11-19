@@ -1,0 +1,44 @@
+{
+  "topic": "Water, sodium and potassium disorders",
+  "system": "Renal / urinary",
+  "specialty": "Nephrology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiología",
+    "Fisiopatología",
+    "Patología médica",
+    "Nefrología",
+    "Medicina de urgencias"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "deshidratación",
+    "depleción de volumen",
+    "edemas",
+    "hiponatremia",
+    "SIADH",
+    "desmielinización osmótica",
+    "hipernatremia",
+    "diabetes insípida",
+    "hiperpotasemia",
+    "hipopotasemia",
+    "osmolalidad"
+  ],
+  "keywords_en": [
+    "dehydration",
+    "volume depletion",
+    "oedema",
+    "hyponatraemia",
+    "SIADH",
+    "osmotic demyelination",
+    "hypernatraemia",
+    "diabetes insipidus",
+    "hyperkalaemia",
+    "hypokalaemia",
+    "osmolality"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}
